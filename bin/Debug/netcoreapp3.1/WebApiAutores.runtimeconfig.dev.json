@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fleiva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fleiva\\.nuget\\packages"
+    ]
+  }
+}
